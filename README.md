@@ -78,8 +78,18 @@ The code has been tested with Python 3.11.3, the requirements are in `requiremen
 
 ## Reference
 
+You can find our paper [here](https://ieeexplore.ieee.org/abstract/document/10178579).
 If you use material provided in this repository, please cite it with
 
 ```
-Add reference
+@INPROCEEDINGS{weil23pointCloudqoe,
+  author={Weil, Jannis and Alkhalili, Yassin and Tahir, Anam and Gruczyk, Thomas and Meuser, Tobias and Mu, Mu and Koeppl, Heinz and Mauthe, Andreas},
+  booktitle={15th International Conference on Quality of Multimedia Experience (QoMEX)}, 
+  title={Modeling Quality of Experience for Compressed Point Cloud Sequences based on a Subjective Study}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={135-140},
+  doi={10.1109/QoMEX58391.2023.10178579}
+}
 ```
